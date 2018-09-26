@@ -1,2 +1,2 @@
-# Network-tour-of-Arab-Spring-data-set
+# EPFL: A Network Tour of Data Science (EE-558) 
 In the 2011 Arab Spring, the two most significant revolutions happened in Tunisia and Egypt. Seven years later, we aim to revisit the most recurrent demands expressed by the people on social media, as well as how the news media covered the events. We want to show the topics most discussed on the web, and the links between topics, people, events and places. Through this project, we aim to give a new graph-oriented insight into the revolutions.
